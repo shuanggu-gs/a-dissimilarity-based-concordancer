@@ -17,7 +17,6 @@ To use the package, the following modules were created:
     - `configuration.json`: A configuration file where users could set customized parameters
 - data
     - `covid_slim.zip`: a subset of covid corpus(in English) which only contains 20 documents
-    - `assnat_slim.zip`: a subset of assnat corpus(in French) which only contains 20 documents
     - `embedding_models`: to keep pretrained embeddings for using glove, word2vec methods
     - `test`: several test words
 - results
