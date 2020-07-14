@@ -96,7 +96,7 @@ you may get:
 
 2. Prepare Data
 
-Since the data used for development is private, to use the package it is necessary to have the zip files for the COVID1 and Assnat corpora. But we have provided two small datasets, covid_slim and assnat_slim which you could play around.
+To use the package, it is necessary to have the zip files for the COVID19 and Assnat corpora. The Assnat dataset is private so we can't release it. But we have provided a small dataset, covid_slim which you could play around. If you want a full version of COVID corpus, please contact with me. 
 
 If you want to know more about corpora we used in this project, please look at [readme](https://github.ubc.ca/kappa224/Concordancer/tree/master/Concordancer/data) under `data`.
 
