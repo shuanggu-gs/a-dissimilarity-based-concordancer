@@ -1,0 +1,15 @@
+{
+    "DATA_PATH": "../data",
+    "FOLDER_NAME": "covid_slim.zip",
+    "CLUSTER_METHOD": "kmeans",
+    "LANG_ID": "en",
+    "FEATURE_TYPE": "sbert",
+    "REDUCTION_TYPE": "pca",
+    "N_COMPONENTS": 8,
+    "MODEL_PATH": "../data/embedding_models/glove6B_model.pkl",
+    "NUM_OF_SAMPLES": 1000,
+    "WINDOW_SIZE": 5,
+    "TEST_FOLDER": "../data/test",
+    "TEST_FILE": "covid_less.json",
+    "MODE": "user"
+}
