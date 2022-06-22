@@ -1,6 +1,6 @@
 sister==0.1.7
 tqdm==4.45.0
-numpy==1.18.5
+numpy==1.22.0
 rouge_score==0.0.3
 sentence_transformers==0.2.6.1
 elasticsearch==7.7.1
